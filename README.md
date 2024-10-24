@@ -1,5 +1,5 @@
 # Practica_4_II
-Práctica 3 de la asignatura Interfaces Inteligentes. En esta práctica se profundiza en el uso de los eventos en Unity, realizando una serie ejercicios con el objetivo de aprender a utilizar los eventos, delegados, notificadores, observadores y comprender el patrón observador de Unity.
+Práctica 4 de la asignatura Interfaces Inteligentes. En esta práctica se profundiza en el uso de los eventos en Unity, realizando una serie ejercicios con el objetivo de aprender a utilizar los eventos, delegados, notificadores, observadores y comprender el patrón observador de Unity.
 ## Ejercicios Práctica 4
 ### Ejercicio 1
 Se implementaron los siguientes scripts:
